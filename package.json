@@ -1,0 +1,14 @@
+{
+  "name": "emojicons",
+  "version": "0.1.0",
+  "description": "Scrape http://emojicons.com for a usable list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emily Horsman",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
